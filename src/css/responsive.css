@@ -1,85 +1,84 @@
-        @media (max-width:992px) {
-            .secao-com-texto {
-                padding: 153px 25px;
+            @media (max-width:992px) {
+                .secao-com-texto {
+                    padding: 153px 25px;
+                }
+                .secao-com-texto p,
+                .secao-com-texto.onde-estamos p {
+                    width: 100%;
+                }
             }
-            .secao-com-texto p,
-            .secao-com-texto.onde-estamos p {
-                width: 100%;
+            
+            @media (max-width: 768px) {
+                .contato {
+                    background-image: none;
+                    background-color: #D3AE71;
+                }
+                .contato .texto {
+                    position: relative;
+                    text-align: center;
+                    left: 0;
+                    top: 50%;
+                    transform: translateY(-50%);
+                }
+                .contato h2 {
+                    margin-bottom: 46px;
+                }
             }
-        }
-        
-        @media (max-width: 768px) {
-            .contato {
-                background-image: none;
-                background-color: #D3AE71;
+            
+            @media (max-width: 720px) {
+                .ladrilho .grande,
+                .ladrilho .medio {
+                    width: 100%;
+                }
+                .ladrilho .pequeno,
+                .ladrilho .pequeno.grao {
+                    width: 50%;
+                }
+                .rodape .logo {
+                    display: block;
+                    margin: 0 auto;
+                }
+                .rodape ul {
+                    display: block;
+                    text-align: center;
+                    width: 100%;
+                }
+                .rodape ul li {
+                    display: block;
+                }
             }
-            .contato .texto {
-                position: relative;
-                text-align: center;
-                left: 0;
-                top: 50%;
-                transform: translateY(-50%);
+            
+            @media (max-width: 425px) {
+                .cabecalho .logo {
+                    display: block;
+                    margin: 0 auto;
+                }
+                .cabecalho nav {
+                    position: static;
+                    text-align: center;
+                    width: 100%;
+                }
+                .cabecalho nav ul li {
+                    display: block;
+                }
+                .cabecalho nav ul li a {
+                    width: 100%;
+                    display: block;
+                }
+                .painel h2 {
+                    font-size: 2.5rem;
+                }
+                .secao-com-texto h2 {
+                    font-size: 3rem;
+                }
+                .secao-com-texto.onde-estamos p {
+                    font-size: 2rem;
+                }
             }
-            .contato h2 {
-                margin-bottom: 46px;
+            
+            @media (max-width: 375px) {
+                .ladrilho .pequeno,
+                .ladrilho .pequeno.grao {
+                    width: 100%;
+                }
             }
-        }
-        
-        @media (max-width: 720px) {
-            .ladrilho .grande,
-            .ladrilho .medio {
-                width: 100%;
-            }
-            .ladrilho .pequeno,
-            .ladrilho .pequeno.grao {
-                width: 50%;
-            }
-            .rodape {
-                text-align: center;
-            }
-            .rodape .logo {
-                display: block;
-            }
-            .rodape ul {
-                display: block;
-                width: 100%;
-            }
-            .rodape ul li {
-                display: block;
-            }
-        }
-        
-        @media (max-width: 425px) {
-            .cabecalho .logo {
-                display: block;
-                margin: 0 auto;
-            }
-            .cabecalho nav {
-                position: static;
-                text-align: center;
-                width: 100%;
-            }
-            .cabecalho nav ul li {
-                display: block;
-            }
-            .cabecalho nav ul li a {
-                width: 100%;
-                display: block;
-            }
-            .painel h2 {
-                font-size: 2.5rem;
-            }
-            .secao-com-texto h2 {
-                font-size: 3rem;
-            }
-            .secao-com-texto.onde-estamos p {
-                font-size: 2rem;
-            }
-        }
-        
-        @media (max-width: 375px) {
-            .ladrilho .pequeno,
-            .ladrilho .pequeno.grao {
-                width: 100%;
-            }
-        }
