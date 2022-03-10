@@ -34,13 +34,15 @@
             .ladrilho .pequeno.grao {
                 width: 50%;
             }
+            .rodape {
+                text-align: center;
+            }
             .rodape .logo {
                 display: block;
-                text-align: center;
-                width: 100%;
             }
             .rodape ul {
                 display: block;
+                width: 100%;
             }
             .rodape ul li {
                 display: block;
