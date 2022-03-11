@@ -23,6 +23,9 @@
                 .contato h2 {
                     margin-bottom: 46px;
                 }
+                .contato address {
+                    font-size: 2rem;
+                }
             }
             
             @media (max-width: 720px) {
@@ -34,17 +37,28 @@
                 .ladrilho .pequeno.grao {
                     width: 50%;
                 }
+                .rodape {
+                    text-align: center;
+                    background-image: none;
+                    background-color: #000000;
+                }
                 .rodape .logo {
                     display: block;
                     margin: 0 auto;
+                    margin-bottom: 122px;
                 }
                 .rodape ul {
                     display: block;
-                    text-align: center;
                     width: 100%;
+                    margin-bottom: 122px;
                 }
                 .rodape ul li {
                     display: block;
+                    font-size: 2rem;
+                }
+                .rodape .redes-sociais {
+                    float: none;
+                    margin-bottom: 28px;
                 }
             }
             
