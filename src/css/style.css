@@ -8,11 +8,6 @@ body {
     font-size: 1.6rem;
 }
 
-.cabecalho {
-    padding: 30px 15px;
-    position: relative;
-}
-
 .logo {
     background: url(../images/logo.jpg) center center no-repeat;
     width: 85px;
@@ -22,6 +17,11 @@ body {
 
 .cabecalho .logo h1 {
     font-size: 0;
+}
+
+.cabecalho {
+    padding: 30px 15px;
+    position: relative;
 }
 
 .cabecalho nav {
