@@ -9,5 +9,6 @@ Repositório com landing page simples, criado em aula do curso de programação 
 
 ✔ Projeto finalizado, nas resoluções 375px e 1440px: <br> <br>
 
+![Gif Code Café](https://user-images.githubusercontent.com/97855964/168163467-57ab6721-70c7-446b-9752-9f224710efec.gif)
 
 ![screencapture-alinemozer-github-io-projeto-code-cafe-2022-05-12-17_15_47](https://user-images.githubusercontent.com/97855964/168160658-db567b61-b83a-434f-baf9-ef9a8abf9732.png)
