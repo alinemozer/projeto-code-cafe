@@ -1,7 +1,7 @@
 # projeto-code-cafe
 Repositório com landing page simples, criado em aula do curso de programação DevQuest.
 
-📝 Neste projeto não utilizamos Flex ou Grid, mas o Float e Transform para alinharmos os elementos.
+📝 Neste projeto não utilizamos Flex ou Grid, mas o Float e Transform: Translate para alinharmos os elementos.
 
 🖥 Tecnologias utilizadas:
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
